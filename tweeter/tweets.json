@@ -1,0 +1,9 @@
+[
+  {
+    "displayName": "John",
+    "userName": "@JohnWest",
+    "timeAgo": "15h",
+    "content": "Test tweet",
+    "image": "https://picsum.photos/200/300"
+  }
+]
